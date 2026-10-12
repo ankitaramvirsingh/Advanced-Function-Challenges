@@ -1,0 +1,19 @@
+Create a function using *args that accepts any number of values and returns their total.
+Create a function using *args that returns the largest supplied number.
+Create
+def create_profile(**kwargs)
+that accepts dynamic user information and prints all provided attributes.
+Create a function that accepts another function as an argument.
+Example idea
+calculate(add, 10, 20)
+calculate(multiply, 10, 20)
+Create a lambda function for calculating the square of a number.
+Use lambda with map() to square
+[1, 2, 3, 4, 5, 6]
+Use lambda with filter() to extract even numbers.
+Write a recursive function to calculate factorial.
+Write a recursive function to calculate
+1 + 2 + 3 + ... + n
+Write a recursive function to generate the Fibonacci sequence or calculate the nth Fibonacci number.
+Demonstrate local and global variable scope using a small program.
+Create a mini calculator where each mathematical operation is implemented as a separate function and a main function controls the program.
